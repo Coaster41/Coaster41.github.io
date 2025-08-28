@@ -1,11 +1,13 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/cv.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+<embed src="https://Coaster41.github.io/files/cv.pdf" type="application/pdf" />
 
 {% include base_path %}
 
