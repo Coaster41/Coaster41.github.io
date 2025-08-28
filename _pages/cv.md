@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <!-- <embed src="https://Coaster41.github.io/files/cv.pdf" type="application/pdf" /> -->
-<iframe src="https://Coaster41.github.io/files/cv.pdf" width="100%">
+<iframe src="https://Coaster41.github.io/files/cv.pdf" width="100%" height="800px">
     <p>Your browser does not support iframes. <a href="https://Coaster41.github.io/files/cv.pdf">Download the PDF</a> instead.</p>
-</iframe>
+</iframe> <br> <br>
 
 {% include base_path %}
 
