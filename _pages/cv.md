@@ -11,35 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of California, Irvine, 2029 (expected)
+* B.S. in Computer Science, University of California, Santa Cruz, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Software Engineering II Intern
+  * IoT Cisco Systems
+  * Built a REST API asset connection workflow engine in Golang utilizing Ollama and Splunk for device health and securty monitoring
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Software Engineering I Intern
+  * IoT Cisco Systems
+  * Developed an IoT troubleshooting dashboard and a microservice application manager in Java applying Apache Freemarker templating for runtime workflow modification
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Software Engineering I Intern
+  * Webex Cisco Systems
+  * Reduced K8s and Docker cloud costs by up to 80\%, through transitioning to AWS Spot EC2 and Graviton ARM instances and implementing automatic node shutdown and cluster scaling.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
