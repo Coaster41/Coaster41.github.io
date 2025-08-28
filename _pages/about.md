@@ -11,9 +11,7 @@ I am second-year Computer Science PhD student at University of California, Irvin
 My field of research is in explainable machine learning (XAI). More specifically, I do research in:
 
 - Mechanistic Interpretability for Structured Data Foundation Models, Time Series and Tabular data
-
 - Time Series Forecasting and Anomaly Detection using Foundation Models
-
 - Neural Network Pruning and Fair Decision Trees
 
 I completed my B.S. in Computer Science at University of California, Santa Cruz where I was awarded the [Chancellor's Undergraduate Research Award](https://honors.ucsc.edu/awards/dca/2024.html). 
