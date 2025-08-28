@@ -22,7 +22,7 @@ repository               : "Coaster41/Coaster41.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "coen_cisco_square_small.jpg"
+  avatar           : "coen_cisco_square.jpg"
   name             : "Coen Adler"
   pronouns         : "He/Him"  
   bio              : "CS PhD Student interested in XAI and Foundation Models for Structured Data"
