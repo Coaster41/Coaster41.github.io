@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant, COMPSCI 175: Project in Artificial Intelligence"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate project course"
+permalink: /teaching/2026-winter-cs175
+venue: "University of California, Irvine, Department of Computer Science"
+date: 2026-01-01
+location: "Irvine, California"
+excerpt: "Co-designed the curriculum and mentored student project teams applying large language models to open-ended research problems."
+citation: "Undergraduate project course, University of California, Irvine (Winter 2026)."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Served as teaching assistant for the Large Language Models offering of COMPSCI 175: Project in Artificial Intelligence, a project-based undergraduate course applying LLMs to open-ended research problems.
 
-Heading 1
-======
+Co-designed the course curriculum, which paired several weeks of introductory lectures with a quarter-long team project, and wrote and delivered lecture material. Independently authored the curriculum for the required weekly discussion sections. Coordinated with UCI ITS to secure GPU cluster allocation for the course and taught students the fundamentals of Slurm and cluster computing.
 
-Heading 2
-======
-
-Heading 3
-======
+Served as a weekly research mentor to project teams working on LLM calibration, text-to-SQL benchmarking and prompt engineering, and mechanistic interpretability using pretrained sparse autoencoders, and handled all grading for the course.

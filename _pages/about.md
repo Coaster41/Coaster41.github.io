@@ -7,15 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am second-year Computer Science PhD student at University of California, Irvine, where I am advised by Prof. [Padhraic Smyth](https://ics.uci.edu/~smyth/) in the [DataLab](https://ics.uci.edu/~smyth/research_group.html).
-My field of research is in explainable machine learning (XAI). More specifically, I do research in:
+I am a third-year Computer Science PhD student at the University of California, Irvine, advised by Prof. [Padhraic Smyth](https://ics.uci.edu/~smyth/) in the [DataLab](https://ics.uci.edu/~smyth/research_group.html). My research is in explainable machine learning (XAI), currently focused on:
 
-- Mechanistic Interpretability for Structured Data Foundation Models, Time Series and Tabular data
-- Time Series Forecasting and Anomaly Detection using Foundation Models
-- Neural Network Pruning and Fair Decision Trees
+- Mechanistic interpretability for time series and tabular foundation models
+- Calibration and anomaly detection in large-scale time series
+- Neural network pruning and fair decision trees
 
-I completed my B.S. in Computer Science at University of California, Santa Cruz where I was awarded the [Chancellor's Undergraduate Research Award](https://honors.ucsc.edu/awards/dca/2024.html). 
-At Santa Cruz, I worked closely with Prof. [Leilani Gilpin](https://people.ucsc.edu/~lgilpin/) in the [AIEA Lab](https://aiea-lab.github.io/) exploring methods for the fair augmentation of decision trees and the effects of neural network pruning on explainability. 
-Additionaly, I worked with Prof. [Luca de Alfaro](https://luca.dealfaro.com/) on computation ecology research, efficiently generating habitat connectivity maps for animal and land preservation. 
-In 2023, I co-founded UCSC's ACM AI Undergraduate Research Lab, where our goal was to introduce students to research in AI with hands-on experience.
-During the 22'-24' summers, I interned at Cisco Systems as a Software Engineer on their Webex and IoT teams.
+My most recent paper, "Beyond Accuracy: Are Time Series Foundation Models Well-Calibrated?", was accepted to ICLR 2026.
+
+I completed my B.S. in Computer Science at the University of California, Santa Cruz, where I received the [Chancellor's Undergraduate Research Award](https://undergradresearch.ucsc.edu/award-winners/). At Santa Cruz, I worked with Prof. [Leilani Gilpin](https://people.ucsc.edu/~lgilpin/) in the [AIEA Lab](https://aiea-lab.github.io/) on fair augmentation of decision trees and the effects of neural network pruning on explainability, and with Prof. [Luca de Alfaro](https://luca.dealfaro.com/) on computational ecology, building habitat connectivity maps for animal and land preservation. In 2023, I co-founded UCSC's ACM AI Undergraduate Research Lab to give undergraduates hands-on experience with AI research.
+
+From 2022 to 2024, I interned at Cisco Systems as a Software Engineer on the Webex and IoT teams.
