@@ -7,7 +7,6 @@ venue: "University of California, Irvine, Department of Computer Science"
 date: 2026-01-01
 location: "Irvine, California"
 excerpt: "Co-designed the curriculum and mentored student project teams applying large language models to open-ended research problems."
-citation: "Undergraduate project course, University of California, Irvine (Winter 2026)."
 ---
 
 Served as teaching assistant for the Large Language Models offering of COMPSCI 175: Project in Artificial Intelligence, a project-based undergraduate course applying LLMs to open-ended research problems.
